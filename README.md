@@ -1,1 +1,2 @@
-# RAG-Project-using-Deep-Learning
+# RAG_project
+Utilizing LangChain and OpenAI models to accomplish Retrieval Augmented Generation on Scientific Research Papers
